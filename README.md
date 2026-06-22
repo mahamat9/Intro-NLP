@@ -1,9 +1,7 @@
-# Intro-NLP — Classification & Title Generation
+# Classification & Title Generation
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange?logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%20HuggingFace-Transformers-yellow?logo=huggingface)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 > Fine-tuning pretrained language models for **fake news classification** and **article title generation**.  
 > Carried out during the **Batcouzé I.** conference/workshop — February 2025.
